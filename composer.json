@@ -43,8 +43,7 @@
       "Subfission\\Cas\\Tests\\": "tests"
     }
   },
-  "minimum-stability": "dev",
-  "prefer-stable": true,
+  "minimum-stability": "stable",
   "extra": {
     "laravel": {
       "providers": [
